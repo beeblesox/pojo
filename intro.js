@@ -1,8 +1,8 @@
 // Add some basic POJO patterns here
 
 /*
+# Does markdown work here?
 Creates a new constructor function
-
 Constructors have a prototype property (an object).  Each new object is created with 
 */
 function MyClass(){
