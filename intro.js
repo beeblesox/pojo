@@ -6,8 +6,9 @@ Creates a new constructor function
 Constructors have a prototype property (an object).  Each new object is created with 
 */
 /**
- * # Markdown here? 
- **/
+ * # Markdown here?
+ * - list?
+ * */
 function MyClass(){
   this.someMethod = function(){
     // this method is added to each new instance
